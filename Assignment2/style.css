@@ -1,0 +1,56 @@
+.headerBox {
+    width: 800px;
+    height: 100px;
+    background-color: lightcoral;
+    border: 3px solid palevioletred;
+    margin: auto;
+    font-size: 20px;
+    color:black;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.headerBox:hover {
+    background-color: white;
+    color: lightcoral;
+}
+
+body {
+    align-items: center;
+    text-align: center;
+}
+.links {
+    font-size: 20px; 
+    align-items: center;
+    background-color: lightblue;
+    color:black;
+    border: 3px solid lightcyan;
+    width: 200px;
+    height: 70px;
+    margin: auto;
+}
+.link1{
+    font-size: 15px; 
+    background-color: lightblue;
+    border: 3px solid lightcyan;
+    width: 100px;
+    height: 20px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
+.link1:hover {
+    background-color: white;
+    color: lightblue;
+}
+img {
+    display: block;
+    align-items: center;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
